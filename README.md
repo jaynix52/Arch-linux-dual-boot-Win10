@@ -10,6 +10,9 @@ Download the ISO here: https://archlinux.org/download/
    #Allocate at least 40GB or more to create unallocated free space by clicking on shrink.
 ![image](https://github.com/user-attachments/assets/f1669acf-8419-44eb-9569-3ea1c6592d74)
 
+3. Make a bootable USB for Arch linux
+   #Connect USB stick to your PC you can either use Rufus or BalenaEtcher to create bootable ISO into the USB drive link for Rufus https://rufus.ie/en/ or link for BalenaEtcher https://etcher.balena.io
+
 
 
 
