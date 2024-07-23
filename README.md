@@ -20,8 +20,8 @@ during the restart, enter to the BIOS by using keyboard shortcut F2,F9, Delete K
 in BIOS settings, Disable secure boot, then save changes in the BIOS settings and boot into USB drive you could dalso change primary boot order to USB drive.
 
 4. Booting into Arch Linux and installation 
-it should look like this
 ![image](https://github.com/user-attachments/assets/04eb0cb4-a491-4f1b-b1de-bceb37b5dcc9)
+
 now on your monitor this is optional to increase font by Typing setfont ter-122n on terminal.
 next you wanna use iWCTL tool to connect to wifi (if you have a wired ethernet connection you can skip this step)
 To find and connect to your network type: ```iwctl device list``` then ```iwctl station wlan0 get-networks```connect to wifi typing ```iwctl station wlan0 connect WIFI_NAME``` (example: WIFI_IAMSNDE@spectrum)
