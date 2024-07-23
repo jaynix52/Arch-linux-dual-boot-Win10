@@ -1,4 +1,4 @@
-# arch-linux-dual-boot-win10
+# Arch-linux-dual-boot-win10
 The following is a guide to dualbooting arch linux and windows 10
 https://wiki.archlinux.org/title/Installation_guide
 Requirements: An 8GB or higher USB Drive to create a bootable disk with arch linux
