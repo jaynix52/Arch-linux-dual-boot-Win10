@@ -153,7 +153,7 @@ Finally run ```grub-mkconfig -o /boot/grub/grub.cfg``` to update grub and check 
 
 ![image](https://github.com/user-attachments/assets/2be72e4d-531e-4696-9999-45b08b62f6bd)
 
-Finally you are free to use arch linux. 
+Congrats you have now successfully installed arch linux. If you ran into any errors feel free to send a message at jaynix52 discord :D
 
    
 
